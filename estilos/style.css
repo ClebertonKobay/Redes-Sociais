@@ -30,3 +30,11 @@ main{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
+#tela{
+    position: relative;
+    top: 64px;
+    left: 49px;
+    width: 210px;
+    height: 372px;
+}
